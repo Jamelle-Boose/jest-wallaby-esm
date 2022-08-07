@@ -1,0 +1,23 @@
+{
+	"name": "jest-wallaby-esm",
+	"version": "1.0.0",
+	"description": "Repository for working Jest, Wallaby, and ESM module configuration.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jamelle-Boose/jest-wallaby-esm.git"
+	},
+	"author": "",
+	"license": "Unlicense",
+	"bugs": {
+		"url": "https://github.com/Jamelle-Boose/jest-wallaby-esm/issues"
+	},
+	"homepage": "https://github.com/Jamelle-Boose/jest-wallaby-esm#readme",
+	"devDependencies": {
+		"jest": "^28.1.3"
+	}
+}
